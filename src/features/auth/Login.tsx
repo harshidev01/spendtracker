@@ -5,7 +5,7 @@ function Login() {
   return (
     <div>
       <div>
-        <img src="public/login.png" />
+        <img src="login.png" />
       </div>
       <div className="flex w-full justify-center font-semibold text-xl">
         Welcome Back 👋
